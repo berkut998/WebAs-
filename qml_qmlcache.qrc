@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../InternetShop_WebAssebly/main.qml</file>
+        <file alias="Images/1d5e08c6-cda9-4429-b5a7-92402299cc9e.webp">../InternetShop_WebAssebly/Images/1d5e08c6-cda9-4429-b5a7-92402299cc9e.webp</file>
+        <file alias="Images/5eb1e502-225c-4510-9287-7d34909ae592.webp">../InternetShop_WebAssebly/Images/5eb1e502-225c-4510-9287-7d34909ae592.webp</file>
+        <file alias="Images/91f590d3-a78f-4d84-8019-55b73f94ba88.webp">../InternetShop_WebAssebly/Images/91f590d3-a78f-4d84-8019-55b73f94ba88.webp</file>
+        <file alias="Images/baseline_favorite_border_black_24dp.png">../InternetShop_WebAssebly/Images/baseline_favorite_border_black_24dp.png</file>
+        <file alias="Images/baseline_search_black_24dp.png">../InternetShop_WebAssebly/Images/baseline_search_black_24dp.png</file>
+        <file alias="Images/baseline_shopping_cart_black_24dp.png">../InternetShop_WebAssebly/Images/baseline_shopping_cart_black_24dp.png</file>
+        <file alias="Images/d6df9ea8-b359-4dd2-916d-af88dc36c406.webp">../InternetShop_WebAssebly/Images/d6df9ea8-b359-4dd2-916d-af88dc36c406.webp</file>
+        <file alias="Images/Nike-logo-506c4872.png">../InternetShop_WebAssebly/Images/Nike-logo-506c4872.png</file>
+        <file alias="Images/c96d46b2-b9f4-48f9-b81e-b8ca058e30a6.webp">../InternetShop_WebAssebly/Images/c96d46b2-b9f4-48f9-b81e-b8ca058e30a6.webp</file>
+        <file alias="Images/3c664897-20e3-4cf9-8493-eb027c91b58d.webp">../InternetShop_WebAssebly/Images/3c664897-20e3-4cf9-8493-eb027c91b58d.webp</file>
+        <file alias="Images/31451dc2-07a9-43c4-bd73-8bfa1cf2f7f2.webp">../InternetShop_WebAssebly/Images/31451dc2-07a9-43c4-bd73-8bfa1cf2f7f2.webp</file>
+        <file alias="Images/FA19_NikeJoyride_Running_Performance_04-1-e1566313863962.jpg">../InternetShop_WebAssebly/Images/FA19_NikeJoyride_Running_Performance_04-1-e1566313863962.jpg</file>
+        <file alias="Images/asia_NikeKids.webp">../InternetShop_WebAssebly/Images/asia_NikeKids.webp</file>
+        <file alias="Images/ccd08c64484027.5ad45886d3d6c.jpg">../InternetShop_WebAssebly/Images/ccd08c64484027.5ad45886d3d6c.jpg</file>
+        <file alias="Images/trend8.webp">../InternetShop_WebAssebly/Images/trend8.webp</file>
+        <file alias="Images/trend7.webp">../InternetShop_WebAssebly/Images/trend7.webp</file>
+        <file alias="Images/trend6.webp">../InternetShop_WebAssebly/Images/trend6.webp</file>
+        <file alias="Images/trend5.webp">../InternetShop_WebAssebly/Images/trend5.webp</file>
+        <file alias="Images/trend4.webp">../InternetShop_WebAssebly/Images/trend4.webp</file>
+        <file alias="Images/trend3.webp">../InternetShop_WebAssebly/Images/trend3.webp</file>
+        <file alias="Images/trend2.webp">../InternetShop_WebAssebly/Images/trend2.webp</file>
+        <file alias="Images/trend1.webp">../InternetShop_WebAssebly/Images/trend1.webp</file>
+        <file alias="Images/imageForYou.webp">../InternetShop_WebAssebly/Images/imageForYou.webp</file>
+        <file alias="Images/nikeClub.webp">../InternetShop_WebAssebly/Images/nikeClub.webp</file>
+        <file alias="Images/Kids.webp">../InternetShop_WebAssebly/Images/Kids.webp</file>
+        <file alias="Images/woman.webp">../InternetShop_WebAssebly/Images/woman.webp</file>
+        <file alias="Images/man.webp">../InternetShop_WebAssebly/Images/man.webp</file>
+        <file alias="Images/facebook.png">../InternetShop_WebAssebly/Images/facebook.png</file>
+        <file alias="Images/youtube.png">../InternetShop_WebAssebly/Images/youtube.png</file>
+        <file alias="Images/twitter.png">../InternetShop_WebAssebly/Images/twitter.png</file>
+        <file alias="qtquickcontrols2.conf">../InternetShop_WebAssebly/qtquickcontrols2.conf</file>
+        <file alias="Images/round_location_on_white_24dp.png">../InternetShop_WebAssebly/Images/round_location_on_white_24dp.png</file>
+        <file alias="Images/instagram.png">../InternetShop_WebAssebly/Images/instagram.png</file>
+        <file alias="CustomControls/Text_material.qml">../InternetShop_WebAssebly/CustomControls/Text_material.qml</file>
+        <file alias="CustomControls/Text_materialForm.ui.qml">../InternetShop_WebAssebly/CustomControls/Text_materialForm.ui.qml</file>
+        <file alias="CustomControls/Material_Button.qml">../InternetShop_WebAssebly/CustomControls/Material_Button.qml</file>
+        <file alias="CustomControls/SearchBox.qml">../InternetShop_WebAssebly/CustomControls/SearchBox.qml</file>
+        <file alias="CustomControls/SearchBoxForm.ui.qml">../InternetShop_WebAssebly/CustomControls/SearchBoxForm.ui.qml</file>
+        <file alias="Images/baseline_close_black_24dp.png">../InternetShop_WebAssebly/Images/baseline_close_black_24dp.png</file>
+        <file alias="CustomControls/Material_RoundButton.qml">../InternetShop_WebAssebly/CustomControls/Material_RoundButton.qml</file>
+    </qresource>
+</RCC>
